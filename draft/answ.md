@@ -1,4 +1,23 @@
-**The debate over copyright reform has taken on a new dimension in the context of the development of large-scale language models (LLMs) and artificial intelligence (AI). 
+PART 2:
+
+Four Freedoms (FSF):
+Freedom 0: Run the program for any purpose.
+Freedom 1: Study and modify the code.
+Freedom 2: Share copies.
+Freedom 3: Share modified versions.
+
+GNU Manifesto's Ethical Justification:
+Opposes proprietary software for restricting knowledge and collaboration.
+Advocates for software that benefits everyone, not just corporations.
+
+Difference: Open Source vs. Free Software:
+Free Software: Focuses on user freedoms and ethics (FSF).
+Open Source: Prioritizes collaboration and efficiency (OSI).
+Some open-source licenses allow proprietary use, while free software (GPL) ensures long-term freedom.
+
+PART 3:
+
+The debate over copyright reform has taken on a new dimension in the context of the development of large-scale language models (LLMs) and artificial intelligence (AI). 
 Anna’s Archive article makes a provocative argument: current copyright laws in the West could be holding back innovation in AI, while countries like China have found ways 
 to circumvent these restrictions, giving them a strategic advantage in the development of advanced technologies.
 One of the most striking points of the article is that Chinese companies have unabashedly used Anna's Archive's vast database of scientific books and articles to train 
